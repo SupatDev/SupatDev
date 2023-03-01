@@ -4,7 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm beginner rank for Web Developer.
 ------------------------------------
 
-I'm used two hours a day to learned about codeding. I was started my first language is VB.Net, i'm pretty much interested for that, because it easy to learning for beginner. Now. I'm study about Web Developer, i have stared about Html, CSS, Java Script, MySQL Language and new knowledge in everday. I would like to be an good Web Developer.
+I'm used 1-2 hours a day to learned about coding. I was start my first language is VB.Net, i'm pretty much interested for that, because it's easy to learning for beginner.<br>
+
+Now. I'm study about Web Developer, i have stared about Html, CSS, Java Script, MySQL Language and new knowledge in everday. I would like to be an good Web Developer.
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [supttarachai253@gmail.com](mailto:supttarachai253@gmail.com)
