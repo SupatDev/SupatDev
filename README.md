@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Supattarachai Tachachai
 ===============================================================================================================================================
 
-I'm beginner rank for Web Developer.
+I'm beginner Web Developer.
 ------------------------------------
 
 I'm used 1-2 hours a day to learned about coding. I was start my first language is VB.Net, i'm pretty much interested for that, because it's easy to learning for beginner.<br>
