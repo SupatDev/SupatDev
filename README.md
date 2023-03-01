@@ -9,10 +9,10 @@ I was start my first programming language is VB.Net, i'm pretty interested for t
 
 Now. I'm study about Web Developer, i have stared about Html, CSS, Java Script, MySQL Language and Vue. I spend my time 1-2 hours a day for learned about coding and new knowledge in everyday. 
 
-My goals.
-1.I would like to be an good Front-end Web Developer within 4 month.
-2.Full Stack Web Developer within 5-6 years.
-3.I can manage my time in one day for working, and must have free time 2 hours a day for relaxing or another.
+My goals.<br>
+1.I would like to be an good Front-end Web Developer within 4 month.<br>
+2.Full Stack Web Developer within 5-6 years.<br>
+3.I can manage my time in one day for working, and must have free time 2 hours a day for relaxing or another.<br>
 
 * 🌍  I'm based in Thailand
 * ✉️  You can contact me at [supttarachai253@gmail.com](mailto:supttarachai253@gmail.com)
