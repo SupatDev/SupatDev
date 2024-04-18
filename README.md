@@ -12,8 +12,8 @@ I was start my first programming language is VB.Net, i'm pretty interested for t
 3. I can manage my time in one day for working, and must have free time 2 hours a day for relaxing or another.
 
 *   🌍  I'm based in Thailand
-*   ✉️  You can contact me at [supttarachai253@gmail.com](mailto:supttarachai253@gmail.com)
-*   🧠  I'm learning Python, Java Script, CSS Languages and Vue Framework.
+*   ✉️  You can contact me at
+*   🧠  I'm learning Java Script, CSS Languages and Vue Framework.
 
 ### Skills 
   
