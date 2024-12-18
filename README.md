@@ -1,4 +1,4 @@
-Hi 👋 My name is Supattarachai
+Hi 👋 My name is Wolf
 ==============================
 
 <b>Hello.</b> My nick name is bank.
@@ -7,7 +7,7 @@ I was start my first programming language is VB.Net, i'm pretty interested for t
 <b>Now.</b> I'm study about Web Developer, i have start learning Html, CSS, Java Script, MySQL Language and Vue Framework. I spend my time 1-2 hours a day for learned about coding and new knowledge in everyday.<br>
 
 <b>My goals.</b><bt>
-1. I would like to be an good Front-end Web Developer within 4 month.<br>
+1. I would like to be an good Front-end Web Developer.<br>
 2. Full Stack Web Developer within 5-6 years.<br> 
 3. I can manage my time in one day for working, and must have free time 2 hours a day for relaxing or another.
 
